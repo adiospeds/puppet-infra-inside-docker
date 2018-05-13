@@ -1,3 +1,4 @@
 puppet/
 puppetdb/
 puppetdb-postgres/
+.vagrant/
